@@ -1,4 +1,5 @@
-![GitHub License](https://img.shields.io/github/license/RickSamuel/git-)
+![GitHub License](https://img.shields.io/github/license/RickSamuel/git-)           ![GitHub repo size](https://img.shields.io/github/repo-size/RickSamuel/git-)
+
 
 # Projeto  Nodejs
 ## Projeto usando funcionalidades nodejs e express
